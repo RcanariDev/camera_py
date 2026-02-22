@@ -3,11 +3,15 @@
 <br />
 <br />
 
-Configurar cuenta tapo: 
-Selecciona dispositivo tapo  **>** Ajustes avanzado > cuenta la camara
+**Configurar cuenta tapo**
 
-Direccion de la ip:
-Selecciona dispositivo tapo > Información del dispositivo
+- Selecciona dispositivo tapo  **>** Ajustes avanzado > cuenta la camara
+
+<br />
+
+**Direccion de la ip**
+
+- Selecciona dispositivo tapo > Información del dispositivo
 
 
 <br />
