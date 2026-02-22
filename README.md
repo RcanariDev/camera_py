@@ -5,7 +5,7 @@
 
 **Configurar cuenta tapo**
 
-- Selecciona dispositivo tapo  **>** Ajustes avanzado > cuenta la camara
+- Selecciona dispositivo tapo > Ajustes avanzado > cuenta la camara
 
 <br />
 
